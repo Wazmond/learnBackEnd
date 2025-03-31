@@ -33,3 +33,5 @@ Consolidated both the backend and front end together in a single folder for git.
 Next up, making a full stack to-do app with my own index.js backend express code.
 
 -Ryu 31/03/25
+
+*Oh and I left my db url in .env and git didnt ignore it...woops F
